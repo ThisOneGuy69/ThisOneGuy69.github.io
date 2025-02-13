@@ -69,8 +69,8 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "newstral",
+              url: "https://newstral.com/de",
               icon: "news",
               icon_color: palette.green,
             },
