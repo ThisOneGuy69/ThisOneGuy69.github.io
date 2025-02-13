@@ -1,10 +1,10 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Berlin",
     scale: "C",
   },
   clock: {
@@ -40,14 +40,14 @@ const default_config = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
+              name: "mail",
+              url: "https://mail.proton.me/u/0/",
               icon: "brand-gmail",
               icon_color: palette.green,
             },
             {
               name: "calendar",
-              url: "https://calendar.google.com",
+              url: "https://calendar.proton.me/u/0/",
               icon: "calendar-filled",
               icon_color: palette.peach,
             },
@@ -59,7 +59,7 @@ const default_config = {
             },
             {
               name: "drive",
-              url: "https://drive.google.com/drive/home",
+              url: "https://calendar.proton.me/u/0/",
               icon: "brand-google-drive",
               icon_color: palette.blue,
             },
