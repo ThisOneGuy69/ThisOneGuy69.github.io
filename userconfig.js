@@ -29,7 +29,7 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
+              name: "musicForProgramming",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
